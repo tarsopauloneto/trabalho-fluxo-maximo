@@ -2,7 +2,9 @@
 
 Projeto em Python que calcula o fluxo máximo entre uma origem e um destino em uma rede com capacidades bidirecionais.
 
-**Apresentação no YouTube:** [clicar aqui](https://www.youtube.com/watch?v=INSIRA_O_LINK_AQUI)
+## Apresentação
+
+🔗 **[Assista à apresentação do trabalho aqui](https://youtu.be/Oe8kCiyp2HY)**
 
 ## Problema
 
@@ -25,6 +27,8 @@ Projeto em Python que calcula o fluxo máximo entre uma origem e um destino em u
 ```text
 trabalho-fluxo-maximo/
 ├── README.md
+├── apresentacao/
+│   └── apresentacao.md
 ├── src/
 │   └── main.py
 ├── dados/
@@ -32,6 +36,7 @@ trabalho-fluxo-maximo/
 ├── evidencias/
 │   └── accepted.jpeg
 └── acompanhamento/
+    └── roteiro.md
 ```
 
 ## Como executar
@@ -77,6 +82,7 @@ Se `n` é o número de vértices e `m` é o número de conexões:
 
 - `src/main.py` - solução principal
 - `dados/entrada.txt` - arquivo de entrada usado para teste
+- `apresentacao/apresentacao.md` - resumo da apresentação
 - `evidencias/accepted.jpeg` - evidência de submissão aceita
 - `acompanhamento/` - pasta reservada para material de acompanhamento
 
